@@ -11,7 +11,6 @@ A lightweight, client-side Minecraft mod that detects **real Elytra flight** and
 - **Accurate Elytra Detection** — Uses `player.isFallFlying()` for real flight state detection, not just armor slot checks
 - **Modern HUD Overlay** — Clean Minecraft-style HUD with "ELYTRA FLYING" text, optional Elytra icon, and glow effects
 - **Smooth Animations** — HUD fades in/out smoothly with no visual popping
-- **Configurable Keybind** — Toggle the HUD on/off with Right Shift (default, rebindable)
 - **Sound Notifications** — Optional subtle chime when Elytra flight begins
 - **Full Config Screen** — Extensive configuration via Mod Menu + Cloth Config
 - **Client-Side Only** — Works in multiplayer and singleplayer, no server-side installation needed
@@ -45,7 +44,6 @@ Access the config screen via:
 
 | Option | Default | Description |
 |--------|---------|-------------|
-| Enable HUD | `true` | Master toggle for the HUD overlay |
 | HUD Position | Top Right | Screen position (6 options) |
 | HUD Scale | `100` | Scale percentage (50-200%) |
 | Text Color | Cyan | ARGB color picker |
@@ -75,11 +73,6 @@ This mod uses the **proper Minecraft flight detection method** (`LivingEntity.is
 - **OptiFine** — Not tested (Fabric + OptiFine may have issues unrelated to this mod)
 - **Iris Shaders** — Fully compatible
 - **Other HUD Mods** — Designed not to interfere
-
-## Supported Minecraft Versions
-
-- Minecraft 1.21 (primary target)
-- Future 1.21.x versions (as they become available)
 
 ## Building from Source
 
