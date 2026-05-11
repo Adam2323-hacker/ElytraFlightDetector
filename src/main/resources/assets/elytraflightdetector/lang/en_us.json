@@ -1,0 +1,31 @@
+{
+  "key.elytraflightdetector.toggle_hud": "Toggle Elytra HUD",
+  "modmenu.nameTranslation.elytraflightdetector": "Elytra Flight Detector",
+  "modmenu.descriptionTranslation.elytraflightdetector": "Detects and displays a HUD when actively flying with an Elytra.",
+
+  "text.autoconfig.elytraflightdetector.title": "Elytra Flight Detector",
+
+  "text.autoconfig.elytraflightdetector.option.enabled": "Enable HUD",
+  "text.autoconfig.elytraflightdetector.option.enabled.@Tooltip": "Enable or disable the Elytra flight HUD overlay.",
+
+  "text.autoconfig.elytraflightdetector.option.hudPosition": "HUD Position",
+  "text.autoconfig.elytraflightdetector.option.hudPosition.@Tooltip": "Choose where on screen the HUD is displayed.",
+
+  "text.autoconfig.elytraflightdetector.option.hudScale": "HUD Scale",
+  "text.autoconfig.elytraflightdetector.option.hudScale.@Tooltip": "Scale of the HUD (100 = normal size). Range: 50-200%.",
+
+  "text.autoconfig.elytraflightdetector.option.textColor": "Text Color",
+  "text.autoconfig.elytraflightdetector.option.textColor.@Tooltip": "Color of the HUD text.",
+
+  "text.autoconfig.elytraflightdetector.option.backgroundEnabled": "Enable Background",
+  "text.autoconfig.elytraflightdetector.option.backgroundEnabled.@Tooltip": "Show a semi-transparent background behind the HUD.",
+
+  "text.autoconfig.elytraflightdetector.option.opacity": "Opacity",
+  "text.autoconfig.elytraflightdetector.option.opacity.@Tooltip": "Overall transparency of the HUD. Range: 10-100%.",
+
+  "text.autoconfig.elytraflightdetector.option.iconEnabled": "Enable Icon",
+  "text.autoconfig.elytraflightdetector.option.iconEnabled.@Tooltip": "Show an Elytra icon next to the HUD text.",
+
+  "text.autoconfig.elytraflightdetector.option.soundEnabled": "Enable Sound",
+  "text.autoconfig.elytraflightdetector.option.soundEnabled.@Tooltip": "Play a notification sound when Elytra flight starts."
+}

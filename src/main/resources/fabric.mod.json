@@ -1,0 +1,45 @@
+{
+  "schemaVersion": 1,
+  "id": "elytraflightdetector",
+  "version": "${version}",
+  "name": "Elytra Flight Detector",
+  "description": "A lightweight client-side mod that detects and displays a HUD indicator when you are actively flying with an Elytra. Features configurable HUD, keybind toggle, and sound notifications.",
+  "authors": [
+    "AdamJaroui23"
+  ],
+  "contact": {
+    "homepage": "https://modrinth.com/mod/elytraflightdetector",
+    "sources": "https://github.com/AdamJaroui23/ElytraFlightDetector"
+  },
+  "license": "MIT",
+  "icon": "assets/elytraflightdetector/icon.png",
+  "environment": "client",
+  "entrypoints": {
+    "client": [
+      "com.adamjaroui23.elytraflightdetector.ElytraFlightDetector"
+    ],
+    "modmenu": [
+      "com.adamjaroui23.elytraflightdetector.config.ModMenuIntegration"
+    ]
+  },
+  "depends": {
+    "fabricloader": ">=0.16.0",
+    "minecraft": "~1.21.4",
+    "java": ">=21",
+    "fabric-api": "*"
+  },
+  "suggests": {
+    "modmenu": "*",
+    "cloth-config": "*"
+  },
+  "custom": {
+    "modmenu": {
+      "links": {
+        "Modrinth": "https://modrinth.com/mod/elytraflightdetector",
+        "CurseForge": "https://www.curseforge.com/minecraft/mc-mods/elytraflightdetector",
+        "GitHub": "https://github.com/AdamJaroui23/ElytraFlightDetector",
+        "Issues": "https://github.com/AdamJaroui23/ElytraFlightDetector/issues"
+      }
+    }
+  }
+}
