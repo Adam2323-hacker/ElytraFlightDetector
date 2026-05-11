@@ -107,6 +107,6 @@ AdamJaroui23
 MIT License
 
 ## Links
-- [Modrinth](https://modrinth.com/mod/elytraflightdetector)
+- [Modrinth](https://modrinth.com/mod/elytra-flight-detector)
 - [GitHub](https://github.com/AdamJaroui23/ElytraFlightDetector)
 - [Issues](https://github.com/AdamJaroui23/ElytraFlightDetector/issues)
