@@ -17,10 +17,6 @@ A lightweight, client-side Minecraft mod that detects **real Elytra flight** and
 - **Client-Side Only** — Works in multiplayer and singleplayer, no server-side installation needed
 - **Performance Optimized** — Minimal performance impact, compatible with Sodium and optimization mods
 
-## Screenshots
-
-*[Screenshots coming soon]*
-
 ## Installation
 
 ### Requirements
@@ -57,15 +53,6 @@ Access the config screen via:
 | Opacity | `80` | Overall transparency (10-100%) |
 | Enable Icon | `true` | Show Elytra icon beside text |
 | Enable Sound | `true` | Play sound on flight start |
-| Enable Glow | `true` | Subtle bloom effect on text |
-
-## Keybinds
-
-| Key | Action |
-|-----|--------|
-| Right Shift (default) | Toggle HUD on/off |
-
-Rebindable in **Options → Controls → Miscellaneous**.
 
 ## How It Works
 
