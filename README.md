@@ -109,6 +109,5 @@ This project is licensed under the **MIT License**. See the [LICENSE](LICENSE) f
 ## Links
 
 - [Modrinth](https://modrinth.com/mod/elytraflightdetector)
-- [CurseForge](https://www.curseforge.com/minecraft/mc-mods/elytraflightdetector)
 - [GitHub](https://github.com/AdamJaroui23/ElytraFlightDetector)
 - [Issues](https://github.com/AdamJaroui23/ElytraFlightDetector/issues)
